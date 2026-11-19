@@ -1,0 +1,66 @@
+{
+  "provider_type": "volcengine-tos",
+  "repository": "certimate-go/plugin-provider-volcengine-tos-deployer",
+  "version": "0.2.2",
+  "tag": "v0.2.2",
+  "source_commit": "3c3f9fcb8bbb6943a9d00bf7aa1bce78a1c24d05",
+  "build_run_id": "44506067599",
+  "artifacts": [
+    {
+      "os": "darwin",
+      "arch": "amd64",
+      "path": "build/darwin_amd64.zip",
+      "size": 6921637,
+      "sha256": "65a337ea6beccbca60bdd9ccf90f7da64a6acce7f4b294bb6ba2005602925495"
+    },
+    {
+      "os": "darwin",
+      "arch": "arm64",
+      "path": "build/darwin_arm64.zip",
+      "size": 6517854,
+      "sha256": "38f6dccc1d30a47719dc55beeb36f32d27fb1da556b6fee95e9411ea86365ce5"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "path": "build/linux_amd64.zip",
+      "size": 6904831,
+      "sha256": "78693b43f0167b4853d5bad5303014453759aa6bf5a555ec8c5f0dff7827feeb"
+    },
+    {
+      "os": "linux",
+      "arch": "arm",
+      "path": "build/linux_arm.zip",
+      "size": 6499827,
+      "sha256": "d4246bceb8f4c37bc31bd0c621cbdbdcd8ec1fd12977baf0c7e2de5c7af034db"
+    },
+    {
+      "os": "linux",
+      "arch": "arm64",
+      "path": "build/linux_arm64.zip",
+      "size": 6264083,
+      "sha256": "9c659f68cba206db6944bc0b0980a7d65c4905bf8d6bd9e9af0c5c35fdbb6e9f"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "build/windows_386.zip",
+      "size": 6606354,
+      "sha256": "50b919639e27790f6381f32c318053f525ae207df4e49ef92051accee6c34eb2"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "build/windows_amd64.zip",
+      "size": 7067179,
+      "sha256": "693c949a56a1a93e65dfbdce776dd7ddd9d4d5e55bc5044dc13e708c4fd3fafa"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "build/windows_arm64.zip",
+      "size": 6366914,
+      "sha256": "d25207b093c9f45d4f3a0a09292cb05fb4e7dec1c5645176a5d38e26a370f4a3"
+    }
+  ]
+}
